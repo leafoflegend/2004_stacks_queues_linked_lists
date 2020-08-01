@@ -1,0 +1,16 @@
+{
+  "name": "stacks_queues_linked_lists",
+  "version": "1.0.0",
+  "description": "**Pancakes**.",
+  "main": "stack.spec.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.2.2"
+  }
+}
